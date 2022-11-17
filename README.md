@@ -7,3 +7,10 @@ L’entreprise souhaite développer un site Internet qui permette aux usagers de
 Vous êtes chargé d'intégrer l'interface du site avec du code HTML et CSS. Pour cela, vous travaillez en étroite collaboration avec Sarah, la CTO, et Loïc, l’UI designer. 
 
 A l'aide des maquettes, j'ai du intégerer l'interface du site en tenant compte de la note de synthese qui contient les spécifications fonctionnelles et contraintes techniques.
+
+Compétences évaluées;
+
+Intégrer du contenu conformément à une maquette.
+
+Implémenter une interface responsive.
+
